@@ -24,7 +24,7 @@ Orthogonal Acceleration: Compatible with DeepCache-style temporal caching (--use
 
 Setup
 
-Clone Repository:
+Clone Repository:git@github.com:chappy0/FAAS.git
 
 
 cd FAAS-Project
