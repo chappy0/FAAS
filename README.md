@@ -1,6 +1,6 @@
 FAAS: Frequency-Aware Adaptive Skipping for Accelerated Diffusion Model Inference
 
- <!-- TODO: Replace <COLOR> and <https://www.google.com/search?q=YOUR_ARXIV_LINK_HERE> -->
+
 
 This repository contains the official implementation for the paper: "Frequency-Aware Adaptive Skipping for Accelerated Diffusion Model Inference".
 
